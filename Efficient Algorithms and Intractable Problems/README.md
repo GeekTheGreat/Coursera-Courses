@@ -1,6 +1,7 @@
 # Efficient Algorithms and Intractable Problems
 
 CS 170 from UC Berkeley, Fall 2018
+
 Course Website: https://inst.eecs.berkeley.edu/~cs170/fa18/
 
 1. Introduction, big-O notation, arithmetic
